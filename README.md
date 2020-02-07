@@ -4,7 +4,7 @@ Official Tensorflow implementation of Symmetrical Synthesis for Deep Metric Lear
 
 **Geonmo Gu\*, Byungsoo Ko\*** (* Authors contributed equally.)
 
-@Clova Vision, NAVER/Line Corp.
+@Clova Vision, NAVER/LINE Corp.
 
 - [Paper](https://arxiv.org/abs/2001.11658) | [Supplementary Video](https://www.youtube.com/watch?v=X9mJJKDokEU&feature=youtu.be) | [Poster](https://www.slideshare.net/ByungSooKo1/poster-symmetrical-synthesis-for-deep-metric-learning-aaai2020) | [Spotlight PPT](https://www.slideshare.net/ByungSooKo1/spotlight-ppt-symmetrical-synthesis-for-deep-metric-learning-aaai2020)
 
@@ -83,18 +83,18 @@ $ tensorboard --logdir=eval_log_car --port=10000
 
 ## Acknowledgements
 
-+ Googlenet backbone
++ **Googlenet backbone**
   + https://github.com/wzzheng/HDML/blob/master/lib/GoogleNet_Model.py
   + https://github.com/Wei2624/Feature_Embed_GoogLeNet
   
 ## Citation
-If you find *Symmetrical Synthesis* useful in your research, please consider to cite the following paper:
+If you find *Symmetrical Synthesis* useful in your research, please consider to cite the following paper.
 
 ```
 @inproceedings{gu2020symmetrical,
     title={Symmetrical Synthesis for Deep Metric Learning},
     author={Geonmo Gu and Byungsoo Ko},
-    booktitle={AAAI},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
     year={2020}
 }
 ```
