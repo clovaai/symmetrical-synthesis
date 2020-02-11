@@ -4,10 +4,8 @@ import scipy.io
 
 
 """
-The GoogLeNet Net Model used in HDML
-It should be applied as following:
-google_net_model = GoogleNet_Model.GoogleNet_Model(model_dir='')
-embedding = google_net_model.forward(x)
+this codes is modified from googlenet_v1_model.py implemented by wei2624.
+see https://github.com/Wei2624/Feature_Embed_GoogLeNet/blob/master/GoogLeNet_V1_Model.py
 """
 
 
