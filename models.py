@@ -18,7 +18,7 @@ class model_builder:
         self.n_classes = n_classes
         self.dim_features = dim_features
         self.batch_size = batch_size
-        print('\n\n\ndim_features = %d\n\n\n' % (self.dim_features))    
+        print('\n\n\ndim_features = {}\n\n\n'.format(self.dim_features))    
         self.batch_norm_params = {
             'decay': 0.997,
             'epsilon': 1e-5,
