@@ -19,6 +19,10 @@ After some iterations, symmetrical synthesis generates synthetic points around t
 
 <img src="figures/Supplementary_video.gif">
 
+### Experimental Results
+
+<img src="figures/results.png">
+
 ## Getting Started
 
 ### Requirements
