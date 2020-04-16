@@ -4,7 +4,7 @@ Official Tensorflow implementation of Symmetrical Synthesis for Deep Metric Lear
 
 **Geonmo Gu\*, Byungsoo Ko\*** (* Authors contributed equally.)
 
-@Clova Vision, NAVER/LINE Corp.
+@NAVER/LINE Vision.
 
 - [Paper](https://arxiv.org/abs/2001.11658) | [Supplementary Video](https://www.youtube.com/watch?v=X9mJJKDokEU&feature=youtu.be) | [Poster](https://www.slideshare.net/ByungSooKo1/poster-symmetrical-synthesis-for-deep-metric-learning-aaai2020) | [Spotlight PPT](https://www.slideshare.net/ByungSooKo1/spotlight-ppt-symmetrical-synthesis-for-deep-metric-learning-aaai2020)
 
