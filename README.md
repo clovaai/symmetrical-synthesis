@@ -40,10 +40,10 @@ $ wget https://github.com/Wei2624/Feature_Embed_GoogLeNet/raw/master/tf_ckpt_fro
 2. Download CAR DB and cook.
 
 ```
-$ wget http://imagenet.stanford.edu/internal/car196/car_ims.tgz
+$ wget http://ai.stanford.edu/~jkrause/car196/car_ims.tgz
 $ tar -xzf car_ims.tgz
 $ mv car_ims
-$ wget http://imagenet.stanford.edu/internal/car196/cars_annos.mat
+$ wget http://ai.stanford.edu/~jkrause/car196/cars_annos.mat
 
 # on ../symm_public folder
 $ cd dataset
